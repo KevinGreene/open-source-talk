@@ -8,3 +8,5 @@ To get started
 git clone git@github.com:KevinGreene/open-source-talk.git
 grunt serve
 ```
+
+Kevin Made This
