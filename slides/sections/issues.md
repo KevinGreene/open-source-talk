@@ -42,5 +42,3 @@
 ## Formatted code
 
 ## Links to relevant documentation / code
-
-## TEST ITEM: Please Remove
